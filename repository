@@ -1,0 +1,5 @@
+//This command will create a local copy of the remote repository on your machine.
+git clone https://github.com/username/repo.git my-local-repo
+
+// https://github.com/user/repository.git is the URL of the remote repository you want to clone.
+// my-local-repo is the name of the directory where the repository will be saved.
